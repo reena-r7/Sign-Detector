@@ -4,21 +4,7 @@
 
 ---
 
-**Sample Output**
 
-<p align="center">
-  <img src="https://github.com/RechRaj/SIGN_DETECTOR/blob/main/imager.png" | width=750>
-</p>
-
-**Explanation:** In this case, the signature extraction algorithm has extracted the signature successfully. Just a very small portion of the signature is lost as this part is not connected with the whole signature line, and hence the algorithm interprets it as a non-signature part.
-
-
-#### - The pre-version:
-<p align="center">
-  <img src="https://github.com/RechRaj/SIGN_DETECTOR/blob/main/pre_version.png" | width=450>
-</p>
-
----
 
 **Steps involved:**
 
