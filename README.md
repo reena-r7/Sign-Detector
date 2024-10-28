@@ -55,4 +55,4 @@ It can be modified for other cases and also the for different scanned document s
   - *constant_parameter_3*
 
 ## Author
-Reshma R
+Reena R
